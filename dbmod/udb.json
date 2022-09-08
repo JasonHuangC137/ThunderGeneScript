@@ -1,0 +1,77 @@
+{
+    "222": {
+        "address": "0x64B58325657973e9Fc364d19C9D1e89fc4B5b4B1",
+        "collections": {
+            "first collection": 32,
+            "sefoiseifj": 3432
+        }
+    },
+    "666": {
+        "address": "0x33roiwjroi3cr3",
+        "power": "44",
+        "collections": {
+            "base_collection": "token_id46434",
+            "Second Edititon NFT": "token id 123124"
+        }
+    },
+    "777": {
+        "address": "0x49C9020eAD3A15166ab0cFd45522E757D92B3221",
+        "collections": {
+            "ad8d348a-7d60-462d-9114-4b45bd281c19": 3
+        }
+    },
+    "909": {
+        "address": "0xb6105da27Baa9b54360f6ACE56b61DdC4072139d",
+        "collections": {
+            "ad8d348a-7d60-462d-9114-4b45bd281c19": 3
+        }
+    },
+    "8888": {
+        "address": "0x5Ad2735B928Ed89982C341076F19106D699CF44F",
+        "collections": {}
+    },
+    "12342": {
+        "address": "023423400",
+        "collections": {}
+    },
+    "12345": {
+        "address": "0x6c87685453f9a6559F9542c0Bf401eACD9935d8e",
+        "collections": {
+            "ad8d348a-7d60-462d-9114-4b45bd281c19": 3
+        }
+    },
+    "32333": {
+        "collections": {}
+    },
+    "32342": {
+        "address": "0xf54983a18AC2AC5c3D66f8D406a4dA7351275C31",
+        "collections": {}
+    },
+    "52774": {
+        "address": "0x3801b20AE40a3B8886d3731B4D5C37900f004e76",
+        "collections": {
+            "ad8d348a-7d60-462d-9114-4b45bd281c19": 3
+        }
+    },
+    "61376": {
+        "address": null,
+        "collections": {}
+    },
+    "69696": {
+        "address": "0x334234"
+    },
+    "77283": {
+        "address": "0x33roiwjroi3cr3",
+        "power": "1.0.0",
+        "collections": {
+            "base_collection": "token_id44"
+        }
+    },
+    "898234": {
+        "address": null
+    },
+    "383829482": {
+        "address": "023423400",
+        "collections": {}
+    }
+}
